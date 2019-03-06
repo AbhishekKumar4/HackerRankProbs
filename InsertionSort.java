@@ -14,6 +14,7 @@ public class InsertionSort {
 				input[hole] = input[hole - 1];
 				hole--;
 			}
+			input[hole] = value;
 		}
 		System.out.println("Array after sorting : " + Arrays.toString(input));
 
