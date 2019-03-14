@@ -6,3 +6,8 @@ My solution to hackerrank problems !!!
   - [Selection Sort](https://github.com/AbhishekKumar4/HackerRankProbs/blob/master/sorting/SelectionSort.java)
   - [Bubble Sort](https://github.com/AbhishekKumar4/HackerRankProbs/blob/master/sorting/BubbleSort.java)
   - [Insertion Sort](https://github.com/AbhishekKumar4/HackerRankProbs/blob/master/sorting/InsertionSort.java)
+  
+- [Searching]
+  - [Linear Search]
+  - [Binary Search]
+  - [Ternary Search]
