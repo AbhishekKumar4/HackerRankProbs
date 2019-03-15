@@ -15,5 +15,5 @@ My solution to hackerrank problems !!!
   
 - [Searching]
   - [Linear Search]
-  - [Binary Search]
+  - [Binary Search](https://github.com/AbhishekKumar4/HackerRankProbs/tree/master/searching/binarysearch)
   - [Ternary Search]
