@@ -16,7 +16,7 @@ public class BinarySearchAlgo {
 		int low = input[0];
 		int high = input[input.length - 1];
 		while (low <= high) {
-			int mid = low + high / 2;
+			int mid = low + (high-low)/ 2;
 			if (input[mid] < key) {
 				low = mid + 1;
 			} else if (input[mid] > key) {
