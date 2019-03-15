@@ -30,10 +30,7 @@ public class BinarySearchAlgo {
 
 	public static void main(String args[]) {
 		int[] input = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-		long start = System.currentTimeMillis();
 		System.out.println(binarySeach(input, 4));
-		long end = System.currentTimeMillis();
-		System.out.println(end - start + "ms");
 	}
 
 }
