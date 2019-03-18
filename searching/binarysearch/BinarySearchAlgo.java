@@ -13,8 +13,8 @@ public class BinarySearchAlgo {
 	 */
 	public static int binarySearch(int[] input, int key) {
 
-		int low = input[0];
-		int high = input[input.length - 1];
+		int low = 0;
+		int high = input.length - 1;
 		while (low <= high) {
 			int mid = low + (high-low)/ 2;
 			if (input[mid] < key) {
