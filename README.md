@@ -14,6 +14,6 @@ My solution to hackerrank problems !!!
   - [Bucket Sort]
   
 - [Searching]
-  - [Linear Search]
+  - [Linear Search](https://github.com/AbhishekKumar4/HackerRankProbs/blob/master/searching/linearsearch)
   - [Binary Search](https://github.com/AbhishekKumar4/HackerRankProbs/tree/master/searching/binarysearch)
   - [Ternary Search]
