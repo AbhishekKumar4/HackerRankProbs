@@ -17,3 +17,7 @@ My solution to hackerrank problems !!!
   - [Linear Search](https://github.com/AbhishekKumar4/HackerRankProbs/blob/master/searching/linearsearch)
   - [Binary Search](https://github.com/AbhishekKumar4/HackerRankProbs/tree/master/searching/binarysearch)
   - [Ternary Search]
+  
+  
+  
+  To Solve : Reverse a string of words "Hi I am John" as "John am I Hi" without using array functions like split , reverse or join?  
